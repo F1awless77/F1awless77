@@ -49,4 +49,4 @@ I am a dedicated fullstack developer from Atyrau, Kazakhstan
 
 ## Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aibar-yermekov/)
-[![Instagram]](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)(https://www.instagram.com/yermekovaibar/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yermekovaibar/)
