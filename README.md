@@ -1,30 +1,27 @@
 # Greetings 👋, I'm Yermekov Aibar
 
-I am a dedicated fullstack developer from Atyrau, Kazakhstan
+I am a dedicated back-end developer from Atyrau, Kazakhstan
 
 ## 🔭 I'm currently working on
-- Developing my skills in web development
-- Learning about Machine Learning
+- Developing my skills in Back-end Development
+- Learning about low-level programming
 
 ## 🌱 I'm currently learning
-- Front-end Web Development (React)
-- Back-end Web Developemnt (Express, Node.js, Django)
-- AI Engineering (Python, tensorflow)
+- Back-end Web Developemnt (Spring Boot)
+- Creating applications with Java
 
 ## 🤝 I'm looking to collaborate on
-- Open-source projects related to web development to machine learning
+- Open-source projects related to Java and Spring Boot
 
 ## 🎯 2025 Goals
-- Learn more about Web Development and AI
+- Become an expert in Back-end development with Java
+- Learn low-level programming with C
 
 ## 💬 Ask me about
-- Fullstack Web Development and AI Engineering
+- Back-end development and low-level stuff.
 
 ## 📫 How to reach me
 - Email: [yermekovaibar@gmail.com](mailto:yermekovaibar@gmail.com)
-
-## 💭 Quote
-> "If people are not laughing at your goals, your goals are too small" - Azim Premji
 
 ## Technologies That I Know
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
